@@ -108,4 +108,4 @@ export const stats: [string, string][] = [
 
 export const values = ["Ship fast", "Think in systems", "Care about details", "Keep learning"];
 
-export const CONTACT_EMAIL = "vorodeli27@gmail.com";
+export const CONTACT_EMAIL = "vorodely27@gmail.com";
