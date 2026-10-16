@@ -13,7 +13,11 @@ export const metadata: Metadata = {
   title: "Wilfried DC — Independent Full-Stack Developer",
   description:
     "Wilfried DC, développeur full-stack indépendant basé à Antananarivo. Applications web, APIs, UI/UX et déploiement, de la base de données au pixel.",
-};
+    icons: {
+    icon: "/WDC.png", 
+  },
+
+  };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
