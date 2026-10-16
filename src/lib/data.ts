@@ -94,7 +94,7 @@ export const process: { number: string; title: string; copy: string }[] = [
 ];
 
 export const experience: { years: string; role: string; company: string; result: string }[] = [
-  { years: "2025—Now", role: "Independent Full-Stack Developer", company: "Freelance", result: "Delivered scalable web products for startups and growing businesses across three markets." },
+  { years: "2025—Now", role: "Independent Full-Stack Developer", company: "Freelance", result: "Delivered scalable web products for startups and growing businesses." },
   { years: "2026—Now", role: "Full-Stack Developer", company: "Dimy Creatives", result: "Built reusable application architecture that reduced delivery time by 30%." },
   { years: "2025—Now", role: "Front-End Developer & Designer", company: "Independent", result: "Turned early product ideas into polished, responsive MVPs ready for launch." },
 ];

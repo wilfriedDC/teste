@@ -3,6 +3,8 @@ import { stats, values } from "@/lib/data";
 import me from "@/assets/me.jpeg";
 import { Arrow } from "./icons";
 
+
+
 export default function About() {
   return (
     <section className="about-detailed section-pad reveal" id="about">
@@ -27,8 +29,12 @@ export default function About() {
           <p>I started in tech by pulling apart interfaces to understand how they worked. That curiosity grew into full-stack engineering, where I could shape not only the surface, but the systems underneath it.</p>
           <p>UI/UX design helps me build experiences people understand. Video editing taught me pacing and storytelling. Together, they make my development work sharper—without distracting from performance, accessibility, clean architecture or the user.</p>
           <div className="about-actions">
-            <a className="pill" href="/wilfried-dc-cv.html" download>Download CV <Arrow /></a>
-            <a className="text-link" href="#process">More about my approach <Arrow /></a>
+            <a className="pill" href="/v.pdf" download="Wilfried_DC_CV.pdf">
+              Download CV <Arrow />
+            </a>
+            <a className="text-link" href="#process">
+              More about my approach <Arrow />
+            </a>
           </div>
         </div>
       </div>

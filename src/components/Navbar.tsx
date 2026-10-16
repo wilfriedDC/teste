@@ -53,7 +53,7 @@ export default function Navbar() {
         </nav>
         <div className="mobile-menu-foot">
           <span>Available for freelance & full-time</span>
-          <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>
+        
         </div>
       </div>
     </>

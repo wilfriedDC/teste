@@ -10,9 +10,9 @@ export default function Hero() {
     
       </div>
       <h1>
-        Code that ships
+        Still
         <br />
-        <span>products that last.</span>
+        <span>becoming</span>
         <i className="headline-square" />
       </h1>
       <div className="hero-meta">
